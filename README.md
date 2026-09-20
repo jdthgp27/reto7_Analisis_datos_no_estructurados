@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-CC--BY-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Completado-success?style=for-the-badge)]()
 [![Presentación](https://img.shields.io/badge/📊_Presentación-PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](docs/presentacion_reto7.pptx)
-[![PDF](https://img.shields.io/badge/📄_Versión-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/presentacion_reto7.pdf)
+
 
 
 > **Curso:** Business Intelligence y Big Data (Curso 6) | Odisea Data
@@ -28,7 +28,7 @@ La presentación oficial del proyecto está disponible en la carpeta `docs/`:
 | Formato | Enlace | Descripción |
 |---------|--------|-------------|
 | 📊 **PowerPoint** | [`docs/presentacion_reto7.pptx`](docs/presentacion_reto7.pptx) | 17 diapositivas con el análisis completo |
-| 📄 **PDF** | [`docs/presentacion_reto7.pdf`](docs/presentacion_reto7.pdf) | Versión imprimible de la presentación |
+| 
 
 ### Contenido de la presentación
 
