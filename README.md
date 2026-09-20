@@ -10,12 +10,46 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.13-4C72B0?style=for-the-badge)](https://seaborn.pydata.org/)
 [![License](https://img.shields.io/badge/License-CC--BY-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Completado-success?style=for-the-badge)]()
+[![Presentación](https://img.shields.io/badge/📊_Presentación-PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](docs/presentacion_reto7.pptx)
+[![PDF](https://img.shields.io/badge/📄_Versión-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/presentacion_reto7.pdf)
+
 
 > **Curso:** Business Intelligence y Big Data (Curso 6) | Odisea Data
 > **Reto:** 7 — Análisis de Datos No Estructurados
 > **Autor:** Judit Giravent Pineda
 
 Análisis completo de **100.000 tweets sobre inteligencia artificial** mediante técnicas de NLP, análisis de sentimiento, extracción de entidades, modelado de tópicos y análisis de redes de co-ocurrencia.
+
+---
+## 📽️ Presentación del proyecto
+
+La presentación oficial del proyecto está disponible en la carpeta `docs/`:
+
+| Formato | Enlace | Descripción |
+|---------|--------|-------------|
+| 📊 **PowerPoint** | [`docs/presentacion_reto7.pptx`](docs/presentacion_reto7.pptx) | 17 diapositivas con el análisis completo |
+| 📄 **PDF** | [`docs/presentacion_reto7.pdf`](docs/presentacion_reto7.pdf) | Versión imprimible de la presentación |
+
+### Contenido de la presentación
+
+1. **Portada** — Reto 7 y contexto
+2. **Índice** — 12 secciones de la presentación
+3. **Contexto y objetivos** — ChatGPT, GPT-4, Twitter/X
+4. **Fuentes de datos** — 3 datasets de Kaggle
+5. **Metodología** — Pipeline de 7 fases
+6. **Tratamiento de datos (I)** — Limpieza de texto
+7. **Tratamiento de datos (II)** — Tokenización y lematización
+8. **Análisis exploratorio** — Palabras frecuentes y wordclouds
+9. **Análisis de sentimiento** — VADER + TextBlob
+10. **NER y LDA** — Entidades y temas latentes
+11. **Análisis de redes** — Red de co-ocurrencia
+12. **Dificultades (I)** — Retos técnicos
+13. **Dificultades (II)** — Retos metodológicos
+14. **Resultados** — Métricas clave
+15. **Recomendaciones** — 10 prioridades estratégicas
+16. **Conclusiones** — Síntesis y próximos pasos
+17. **Cierre** — Gracias y contacto
+
 
 ---
 
